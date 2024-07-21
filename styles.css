@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255, 255, 238);
+}
+
+.letter-big {
+    color:red;
+    font-size: 50px;
+}
+
+.title {
+    box-sizing: border-box;
+    text-align:center;
+    margin:10px auto;
+    border: 2px solid rgb(190, 169, 152);
+    border-radius: 20px;
+    background-color: rgb(255, 235, 220);
+}
+
+.recipe-img {
+    box-sizing:border-box;
+    text-align: center;
+}
+
+img {
+    border: 10px solid rgb(190, 169, 152);
+    border-radius:30px;
+}
+
+.recipe-contain {
+    box-sizing: border-box;
+    background-color: rgb(255, 235, 220);
+    border-radius: 20px;
+    padding:10px;
+    border: 2px solid rgb(190, 169, 152);
+}
